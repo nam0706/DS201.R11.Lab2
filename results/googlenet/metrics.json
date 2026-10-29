@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.42382520203531876,
+  "precision_macro": 0.42413000881813573,
+  "recall_macro": 0.40620346913518063,
+  "f1_macro": 0.4015908551733564,
+  "experiment": "googlenet",
+  "parameters": 86969,
+  "size": 64,
+  "best_epoch": 20,
+  "test_loss": 1.8719574529872758,
+  "seconds_per_epoch": 64.89319740000028
+}

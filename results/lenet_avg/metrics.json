@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.29571984435797666,
+  "precision_macro": 0.28693222194428314,
+  "recall_macro": 0.2854054373795584,
+  "f1_macro": 0.27305244725648614,
+  "experiment": "lenet_avg",
+  "parameters": 339421,
+  "size": 64,
+  "best_epoch": 17,
+  "test_loss": 2.3791795538343092,
+  "seconds_per_epoch": 64.30346112000025
+}
